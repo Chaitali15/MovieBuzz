@@ -1,0 +1,5 @@
+D:\SKY Tool\SKY Cardiff\SKY_Cardiff\bin\SKY_Cardiff.dll
+D:\SKY Tool\SKY Cardiff\SKY_Cardiff\bin\SKY_Cardiff.pdb
+D:\SKY Tool\SKY Cardiff\SKY_Cardiff\obj\Debug\ResolveAssemblyReference.cache
+D:\SKY Tool\SKY Cardiff\SKY_Cardiff\obj\Debug\SKY_Cardiff.dll
+D:\SKY Tool\SKY Cardiff\SKY_Cardiff\obj\Debug\SKY_Cardiff.pdb
